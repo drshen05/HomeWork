@@ -1,0 +1,18 @@
+.block {
+    background: #c2ab84;
+    width: 225px;
+    display: inline-block;
+    box-shadow: inset 0px 0px 5px;
+    border-radius: 20px;
+    margin: 7px;
+    padding: 25px;
+
+}
+
+div {
+    background-color: rgb(208, 227, 243);
+    border-radius: 20px;
+    height: 550px;
+    overflow: auto;
+    border: solid 1px black;
+}
