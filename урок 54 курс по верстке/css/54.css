@@ -1,0 +1,28 @@
+body {
+    background: #1a1717;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #fff;
+}
+.block{
+    background: #eae2e2;
+    border-radius: 15px;
+    position: fixed;
+    right: 50px;
+    bottom: 100px;
+    max-height: 100px;
+    width: 50%;
+}
+.round {
+    width: 100px;
+    height: 100px;
+    background: #e74435;
+    border-radius: 50%;
+    position: relative;
+    left: 15%;
+    bottom: 50px;
+}
